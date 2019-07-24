@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>R.Liang(a.k.a. Moyan Liang) 的个人博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-24T11:43:53.266Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>R.Liang(a.k.a. Moyan Liang)</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>几何通报第1期</title>
+    <link href="http://yoursite.com/2019/07/24/%E5%87%A0%E4%BD%95%E9%80%9A%E6%8A%A5%E7%AC%AC1%E6%9C%9F/"/>
+    <id>http://yoursite.com/2019/07/24/几何通报第1期/</id>
+    <published>2019-07-24T08:47:16.000Z</published>
+    <updated>2019-07-24T11:43:53.266Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="程牧炯-用Apollonius圆解罗老师几何一题"><a href="#程牧炯-用Apollonius圆解罗老师几何一题" class="headerlink" title="程牧炯:用Apollonius圆解罗老师几何一题"></a>程牧炯:用Apollonius圆解罗老师几何一题</h2><p>程牧炯:ZJGS新初三学生,善于解几何题.</p><blockquote><p>过$\triangle ABC$外心作$AB$垂线,交$AC$延长线于E,外接圆为$F$,$CB$,$HP$交于$G$.求证:<script type="math/tex">1/BF+1/GH=1/r</script>(r是外接圆半径.)</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;程牧炯-用Apollonius圆解罗老师几何一题&quot;&gt;&lt;a href=&quot;#程牧炯-用Apollonius圆解罗老师几何一题&quot; class=&quot;headerlink&quot; title=&quot;程牧炯:用Apollonius圆解罗老师几何一题&quot;&gt;&lt;/a&gt;程牧炯:用Apolloniu
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
