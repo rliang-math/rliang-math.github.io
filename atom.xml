@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-24T11:43:53.266Z</updated>
+  <updated>2019-07-24T12:36:35.907Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2019/07/24/%E5%87%A0%E4%BD%95%E9%80%9A%E6%8A%A5%E7%AC%AC1%E6%9C%9F/"/>
     <id>http://yoursite.com/2019/07/24/几何通报第1期/</id>
     <published>2019-07-24T08:47:16.000Z</published>
-    <updated>2019-07-24T11:43:53.266Z</updated>
+    <updated>2019-07-24T12:36:35.907Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="程牧炯-用Apollonius圆解罗老师几何一题"><a href="#程牧炯-用Apollonius圆解罗老师几何一题" class="headerlink" title="程牧炯:用Apollonius圆解罗老师几何一题"></a>程牧炯:用Apollonius圆解罗老师几何一题</h2><p>程牧炯:ZJGS新初三学生,善于解几何题.</p><blockquote><p>过$\triangle ABC$外心作$AB$垂线,交$AC$延长线于E,外接圆为$F$,$CB$,$HP$交于$G$.求证:<script type="math/tex">1/BF+1/GH=1/r</script>(r是外接圆半径.)</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h2 id="程牧炯-用Apollonius圆解罗老师几何一题"><a href="#程牧炯-用Apollonius圆解罗老师几何一题" class="headerlink" title="程牧炯:用Apollonius圆解罗老师几何一题"></a>程牧炯:用Apollonius圆解罗老师几何一题</h2><p>程牧炯:ZJGS新初三学生,善于解几何题.</p><p><strong>题:</strong> 过$\triangle ABC$外心作$AB$垂线,交$AC$延长线于$P$,外接圆于$X$,$CB$,$HP$交于$E$.求证:<script type="math/tex">1/XE-1/XP=1/r</script>(r是外接圆半径.)</p><p>这道题,程原本给出了两个解法,一个用圆幂与相似性来做,冗长,但直观.另外一个便是用Apollonius圆的解法.</p><a id="more"></a><p><strong>解:</strong> 联结$CX$,$DX$,延长$PX$交$\odot X$于$X^{\prime}$,由对称性有以下几个结论:<br><strong>结论1:</strong> $\angle 1=\angle 2.$<br><strong>结论2:</strong> $XD=XC.$<br><em>注:</em>在这里令$\angle APX = \angle 1,\angle HPB = \angle 2,\angle PAX = \angle 3,\angle XAC = \angle 4.$<br>由结论1,2,可推出结论3:<br><strong>结论3:</strong> $\angle 1 = \angle 2,\angle 3 = \angle 4.$<br>从而$X$为$\triangle ABC$内心,同理$X$也为$\triangle BPD$内心,由内心性质$DX$平分$\angle PDE$,$CX$平分$\angle PCE$.从而<script type="math/tex">XP/XE=AP/AE=DP/DE,</script>设$=k,$并设$XE=a,XP=ka.$</p><p>由此可知$\odot O$上任一点与$X$的连线内平分PE.<br><em>注:</em> 因为$DX,AX,CX,BX$皆内平分PE,可知$\odot O$为满足与$X$连线内分$PE$的点的轨迹.由熟知的定理知结论成立.$\square$</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h2 id=&quot;程牧炯-用Apollonius圆解罗老师几何一题&quot;&gt;&lt;a href=&quot;#程牧炯-用Apollonius圆解罗老师几何一题&quot; class=&quot;headerlink&quot; title=&quot;程牧炯:用Apollonius圆解罗老师几何一题&quot;&gt;&lt;/a&gt;程牧炯:用Apolloniu
-      
+      &lt;h2 id=&quot;程牧炯-用Apollonius圆解罗老师几何一题&quot;&gt;&lt;a href=&quot;#程牧炯-用Apollonius圆解罗老师几何一题&quot; class=&quot;headerlink&quot; title=&quot;程牧炯:用Apollonius圆解罗老师几何一题&quot;&gt;&lt;/a&gt;程牧炯:用Apollonius圆解罗老师几何一题&lt;/h2&gt;&lt;p&gt;程牧炯:ZJGS新初三学生,善于解几何题.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;题:&lt;/strong&gt; 过$\triangle ABC$外心作$AB$垂线,交$AC$延长线于$P$,外接圆于$X$,$CB$,$HP$交于$E$.求证:&lt;script type=&quot;math/tex&quot;&gt;1/XE-1/XP=1/r&lt;/script&gt;(r是外接圆半径.)&lt;/p&gt;
+&lt;p&gt;这道题,程原本给出了两个解法,一个用圆幂与相似性来做,冗长,但直观.另外一个便是用Apollonius圆的解法.&lt;/p&gt;
     
     </summary>
     
